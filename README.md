@@ -1,7 +1,7 @@
 <header>
-<h1> Color Changer</h1>
+<h1> Khata Book </h1>
  
-<h2>Project Description:</h2>
+<h2>🗒 Project Description:</h2>
 <p>
 Add Transactions: Users can easily add new transactions, specifying the transaction type (credit or debit), amount. This feature facilitates real-time recording of financial activities.
 Customer Management: Add and manage customer profiles. Track their balances, credit, and debits.
@@ -9,7 +9,7 @@ Secure and Free: The app is 100% free, secure, and suitable for all types of bus
 
 </p>
 
-<h2>Project Objectives:</h2>
+<h2>⚙️ Project Objectives:</h2>
 <p>
 Dynamic Theme Change: Enable users to change the app's theme dynamically by clicking on specific buttons.
 
@@ -19,7 +19,7 @@ Button Theme Customization: Implement a feature allowing users to choose between
 
 <p>- Dart language</p>
 
- <h2>Screenshot:-</h2>
+ <h2>📲 Screenshot:-</h2>
 
 
 
