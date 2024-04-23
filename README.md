@@ -11,10 +11,7 @@ Secure and Free: The app is 100% free, secure, and suitable for all types of bus
 
 <h2>⚙️ Project Objectives:</h2>
 <p>
-Dynamic Theme Change: Enable users to change the app's theme dynamically by clicking on specific buttons.
-
-Button Theme Customization: Implement a feature allowing users to choose between different themes, each with unique button styles and colors </p>
-
+Simplify Financial Management: Develop a user-friendly Flutter-based app that simplifies the process of recording credit and debit transactions, catering primarily to small businesses, vendors, and individuals
 <h2>Project Technologies:</h2>
 
 <p>- Dart language</p>
