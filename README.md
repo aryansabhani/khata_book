@@ -33,11 +33,7 @@ Button Theme Customization: Implement a feature allowing users to choose between
 <img src="https://github.com/aryansabhani/khata_book/assets/112259316/d9c008e9-d353-42d9-82eb-0d172c2230ff"  height="400">
 <img src="https://github.com/aryansabhani/khata_book/assets/112259316/dc0030f2-0e81-4b5f-8285-ae944eb50097"  height="400">
 
- <h2>video:-</h2>
-
-
-[Screen_recording_20240414_174632.webm](https://github.com/aryansabhani/color_changer/assets/112259316/3763dfd8-2bbe-43c8-af54-dd9c91e42ea3)
-
+ 
 
  
 </header>
